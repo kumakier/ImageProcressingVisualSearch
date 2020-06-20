@@ -1,0 +1,35 @@
+
+loop: in visual search
+
+The files names contain 10_number etc...
+
+
+:What 
+
+i want to know what each category / group each image belonds too
+
+
+How: For every image, i want to know what each class each image is..
+
+How:
+
+In order to understand ...each image
+
+I look at the filename...
+
+
+
+
+
+
+----------------
+
+For a file name (example) "1_25_s.bmp"
+
+split function ("1_25_s.bmp", "_")
+
+return -> ["1", "25", "s.bmp"]
+
+"1"
+
+
